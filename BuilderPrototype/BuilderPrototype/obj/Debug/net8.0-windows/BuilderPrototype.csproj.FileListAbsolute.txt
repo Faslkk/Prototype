@@ -1,0 +1,16 @@
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\bin\Debug\net8.0-windows\BuilderPrototype.exe
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\bin\Debug\net8.0-windows\BuilderPrototype.deps.json
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\bin\Debug\net8.0-windows\BuilderPrototype.runtimeconfig.json
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\bin\Debug\net8.0-windows\BuilderPrototype.runtimeconfig.dev.json
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\bin\Debug\net8.0-windows\BuilderPrototype.dll
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\bin\Debug\net8.0-windows\BuilderPrototype.pdb
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\obj\Debug\net8.0-windows\BuilderPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\obj\Debug\net8.0-windows\BuilderPrototype.AssemblyInfoInputs.cache
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\obj\Debug\net8.0-windows\BuilderPrototype.AssemblyInfo.cs
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\obj\Debug\net8.0-windows\BuilderPrototype.csproj.CoreCompileInputs.cache
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\obj\Debug\net8.0-windows\BuilderPrototype.dll
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\obj\Debug\net8.0-windows\refint\BuilderPrototype.dll
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\obj\Debug\net8.0-windows\BuilderPrototype.pdb
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\obj\Debug\net8.0-windows\BuilderPrototype.genruntimeconfig.cache
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\obj\Debug\net8.0-windows\ref\BuilderPrototype.dll
+C:\Users\krab4\Downloads\BuilderPrototype\BuilderPrototype\obj\Debug\net8.0-windows\BuilderP.481773AC.Up2Date
